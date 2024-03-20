@@ -1,0 +1,5 @@
+{
+  "name": "@front-work/state-types",
+  "version": "0.0.1",
+  "exports":"./index.ts"
+}
